@@ -1,0 +1,37 @@
+credentials:
+  usernames:
+    vicente:
+      name: Vicente
+      password: '$2b$12$lzmlBh1SOMT4fqwTMYSuqu59yC8aRaKOMpGmdSEJCxUM3u4I5xvwq' # To be replaced with hashed password
+
+    carlos:
+      name: Carlos
+      password: '$2b$12$lzmlBh1SOMT4fqwTMYSuqu59yC8aRaKOMpGmdSEJCxUM3u4I5xvwq' # To be replaced with hashed password
+
+    lorenzo:
+      name: Lorenzo
+      password: '$2b$12$lzmlBh1SOMT4fqwTMYSuqu59yC8aRaKOMpGmdSEJCxUM3u4I5xvwq' # To be replaced with hashed password
+    
+    harry:
+      name: Harry
+      password: '$2b$12$lzmlBh1SOMT4fqwTMYSuqu59yC8aRaKOMpGmdSEJCxUM3u4I5xvwq' # To be replaced with hashed password
+    
+    luis:
+      name: Luis
+      password: '$2b$12$lzmlBh1SOMT4fqwTMYSuqu59yC8aRaKOMpGmdSEJCxUM3u4I5xvwq'
+    
+    chris:
+      name: Chretien
+      password: '$2b$12$lzmlBh1SOMT4fqwTMYSuqu59yC8aRaKOMpGmdSEJCxUM3u4I5xvwq'
+    
+    trek:
+      name: Trek
+      password: '$2b$12$lzmlBh1SOMT4fqwTMYSuqu59yC8aRaKOMpGmdSEJCxUM3u4I5xvwq'
+    
+
+cookie:
+  expiry_days: 30
+  key: random_signature_key # Must be string
+  name: random_cookie_name
+preauthorized:
+  emails:
