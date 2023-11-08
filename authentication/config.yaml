@@ -28,6 +28,12 @@ credentials:
       name: Trek
       password: '$2b$12$lzmlBh1SOMT4fqwTMYSuqu59yC8aRaKOMpGmdSEJCxUM3u4I5xvwq'
     
+    kyle:
+      name: Kyle
+      password: '$2b$12$lzmlBh1SOMT4fqwTMYSuqu59yC8aRaKOMpGmdSEJCxUM3u4I5xvwq'
+    
+
+    
 
 cookie:
   expiry_days: 30
